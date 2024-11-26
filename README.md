@@ -1,4 +1,6 @@
-## Hi there 👋
+## Linh Tran
+
+CS PhD Student at RPI
 
 <!--
 **linhhtran/linhhtran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
